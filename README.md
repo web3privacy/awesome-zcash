@@ -96,6 +96,7 @@ Note: Confirm NU6.x/Ironwood compatibility. Many multi-coin wallets have limited
 **GitHub orgs**: github.com/zcash, github.com/ZcashFoundation, github.com/zingolabs, zakura-core, etc.
 
 - Ziggurat — Network test suite. https://github.com/runziggurat/zcash
+- OpenChainBench Zcash RPC benchmark — Live p50/p90/p99 latency for every free keyless Zcash RPC endpoint (Tatum zcashd, Tatum Zebra, Blockchair), probed every 60 s from 3 regions. https://openchainbench.com/benchmarks/zcash-rpc
 
 **Developer Libraries**
 
