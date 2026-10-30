@@ -105,6 +105,7 @@ Note: Confirm NU6.x/Ironwood compatibility. Many multi-coin wallets have limited
 - Zcash Android Wallet SDK - Android SDK for integrating shielded Zcash functionality into mobile applications: https://github.com/zcash/zcash-android-wallet-sdk
 - zcash-localnet - Local multi-node Zcash network for development, testing, and integration: https://github.com/zcash/zcash-localnet
 - Zcash DevTool - Utilities for testing, debugging, and developing Zcash applications: https://github.com/zcash/zcash-devtool
+- zcash-faucet - CLI testnet faucet: `npx zcash-faucet <address>` sends TAZ to unified, Sapling or transparent testnet addresses: https://github.com/anukulpandey/zcash-faucet
 
 _Read the Docs / developer portals via z.cash and ZF._
 
