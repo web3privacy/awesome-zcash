@@ -121,6 +121,7 @@ _Read the Docs / developer portals via z.cash and ZF._
 
 - NEAR Intents, Maya Protocol, THORChain / THORSwap, SwapKit — Native/near-native ZEC swaps. (THORSwap via ecosystem; SwapKit integrated)
 - Houdini Swap, LeoDex, Avalanche Redbridge, OmniBridge / wrapped ZEC (Solana, EVM variants like zenZEC, Universal).
+- Unpair — Swaps any asset through Zcash's shielded pool; you choose who holds the ZEC between the two hops (browser, server or your own wallet). Open source. https://unpair.xyz
 - Emerging: Rhea Finance (NEAR), Hyperliquid (perps + BitFrost bridge), Project 0 (lending), etc.
 
 _Privacy note: Prefer native/shielded paths where possible._
