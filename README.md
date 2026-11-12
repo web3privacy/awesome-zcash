@@ -127,7 +127,8 @@ _Privacy note: Prefer native/shielded paths where possible._
 
 **Exchanges & On/Off-Ramps**
 
-- Major CEX (check shielded deposit/withdrawal): Coinbase, Kraken, Binance, Gemini, KuCoin, etc.
+- Major CEX (check shielded deposit/withdrawal): Coinbase, Kraken, Binance, KuCoin, etc.
+- Gemini — Listed ZEC in 2018 as the first licensed Zcash exchange; withdrawals to shielded addresses since 2020 (deposits use transparent addresses); unified addresses and Orchard support in 2025; Ironwood from day one in 2026; Zcash infrastructure runs on Zakura. https://gemini.com
 - Non-custodial/instant: ChangeNOW, StealthEx, Changelly, Houdini Swap, etc.
 - Regional/others: BitcoinVN, CoinDCX, Airtm.
 
