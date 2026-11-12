@@ -121,6 +121,7 @@ _Read the Docs / developer portals via z.cash and ZF._
 
 - NEAR Intents, Maya Protocol, THORChain / THORSwap, SwapKit — Native/near-native ZEC swaps. (THORSwap via ecosystem; SwapKit integrated)
 - Houdini Swap, LeoDex, Avalanche Redbridge, OmniBridge / wrapped ZEC (Solana, EVM variants like zenZEC, Universal).
+- Shieldz Swap — Non-custodial swap UI that quotes NEAR Intents and Maya routes for ZEC side by side; ZEC arrives at a transparent address, shield after. https://swap.shieldz.cash
 - Emerging: Rhea Finance (NEAR), Hyperliquid (perps + BitFrost bridge), Project 0 (lending), etc.
 
 _Privacy note: Prefer native/shielded paths where possible._
