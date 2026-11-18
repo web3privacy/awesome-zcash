@@ -77,7 +77,7 @@ Note: Confirm NU6.x/Ironwood compatibility. Many multi-coin wallets have limited
 
 - zcashinfo.com — Network/mining data (Foundry). https://zcashinfo.com
 - Zcash Block Explorer (Nighthawk / community) — https://mainnet.zcashexplorer.app
-- CipherScan — Privacy-first explorer. https://cipherscan.app
+- ZecBlock (formerly CipherScan) — Privacy-first explorer. https://zecblock.com
 - ZEC.PRO explorers — Mainnet/testnet. https://explorer.zec.pro · testnet variant
 - Blockchair, Bitquery — Multi-chain with Zcash data.
 - ZecStats — Real-time network/shielding metrics. https://zecstats.com
